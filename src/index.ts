@@ -2,17 +2,17 @@ import {
   FirstFloorUltimateShearForce,
   firstFloorUltimateShearForceInput,
   getVuj,
-} from "./9-first-floor-ultimate-shear-force";
-import * as functions from "./sample-functions";
+} from "./formulas/9-first-floor-ultimate-shear-force";
+import * as formula from "./formulas/sample-formula";
 
 /**
  * sample-functions.ts
  */
-const result1 = functions.add(5, 3);
-const result2 = functions.multiply(4, 7);
+// const result1 = formula.add(5, 3);
+// const result2 = formula.multiply(4, 7);
 
 // document.body.innerHTML = `
-//   <h2>Sample Functions:</h2>
+//   <h2>Sample Formula:</h2>
 //   <p>5 + 3 = ${result1}</p>
 //   <p>4 * 7 = ${result2}</p>
 // `;

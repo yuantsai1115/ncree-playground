@@ -1,8 +1,8 @@
 /**
  * Import external libraries here
  */
-import { PHI_FAL_TABLE } from "./external-reference/phi-fal-table"
-import { PHI_PL_TABLE } from "./external-reference/phi-pl-table"
+import { PHI_FAL_TABLE } from "../external-reference/phi-fal-table"
+import { PHI_PL_TABLE } from "../external-reference/phi-pl-table"
 
 /**
  * Shorten the type name here
